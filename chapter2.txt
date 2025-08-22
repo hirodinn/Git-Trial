@@ -1,1 +1,1 @@
-this is the updated chapter two
+I updated chapter two from the git hub repository
